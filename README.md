@@ -26,3 +26,5 @@ See: [Wikipedia: ACID](https://en.wikipedia.org/wiki/ACID)
   - [SQLite](sqlite.md)
 - NoSQL
   - [MongoDB](mongo.md)
+- Graph databases
+  - [Neo4j](https://neo4j.com/)
